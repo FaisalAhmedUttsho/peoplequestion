@@ -12,7 +12,8 @@
 	<div id="header_wrapper">
 		<!--Header starts here-->
 		<div id="header">
-		     <img src="images/logo7.png" style="float: left">
+		     <img src="images/image3.png" style="float: left; margin-left:-100px;height:80px">
+		     <h4>www.peoplequestion.com</h4>
 		  <form action="" method="post" id="form1">
 		     <strong>Email:</strong>
 		     <input type="email" name="email" placeholder="Email" required="required">

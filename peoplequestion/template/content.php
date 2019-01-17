@@ -1,6 +1,6 @@
 <div id="content"><!--Content starts from here-->
 		<div>
-			<img src="images/image4.jpg" style="float: left; margin-left:-40px">
+			<img src="images/image2.png" style="float: left; margin-left:-40px;height: 350px;width:280px">
 		</div>
 		<div id="form2">
 			<form action="" method="post">
